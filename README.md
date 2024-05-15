@@ -1,2 +1,2 @@
 # Trip-App-Android-Jetpack-Compose
-A trip application has been developed, leveraging the latest Jetpack Compose framework to craft a straightforward and responsive user interface. 
+A trip application has been developed, leveraging the latest Jetpack Compose framework to craft a straightforward and responsive user interface. Key features include the implementation of functionalities such as LazyColumn for efficient rendering of lists, LaunchedEffect for smooth animations and transitions, and various UI styling elements to enhance visual appeal and user experience. Additionally, image loading capabilities have been incorporated to seamlessly display images within the application interface.
